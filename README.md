@@ -1,2 +1,2 @@
 # SHOPINGLIST
-It is our the list of spo
+It is our the shopping list 
